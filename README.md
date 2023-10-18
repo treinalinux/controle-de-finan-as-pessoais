@@ -21,7 +21,7 @@ Aplicação para controle de finanças pessoais.
 - **Cor notificação de atraso:** `#B8141E`
 - **Cor notificação de sucesso:** `#AFEC3E`
 
-**Obs:** Apenas o sistema de cores deve ser usado para controle, exemplo a conta vai vencer em 5 dias e o saldo atual é negativo para o dia do vencimento, então deve ser o usado o aviso para o próximo pagamento. Mesmo que não exista dinheiro disponível para o dia do vencimento, ele ainda não venceu.
+**Obs:** Apenas o sistema de cores deve ser usado para controle (é possível usar combinação de cores sem mudar a cor original), exemplo a conta vai vencer em 5 dias e o saldo atual é negativo para o dia do vencimento, então deve ser o usado o aviso para o próximo pagamento. Mesmo que não exista dinheiro disponível para o dia do vencimento, ele ainda não venceu.
 
 ### 3.1 Publicado e versionado no GitHub
 
@@ -33,6 +33,11 @@ Para acomanhamento do projeto precisamos da publicação do projeto no seu GitHu
 
 ### Visão da tela principal
 
+**SALDO ATUAL: R$ 950,00**
 
+Últimos Pagamentos (VALOR DE SAÍDA) | Pagamentos de Hoje (VALOR TOTAL) | Próximos Pagamentos (VALOR PREVISTO)
+:--------- | :------: | -------:
+17/10/2023 R$ 120,00 Gás (cor sucesso) | 19/10/2023 R$ 350,00 Condomínio | 25/10/2023 R$ 250,00 Internet Tim Live (cor aviso)
+16/10/2023 R$ 800,00 Prestação Casa (cor atraso) | 19/10/2023 R$ 80,00 Sócio torcedor | 29/10/2023  R$ 650,00 Acordo Banco XPTO (cor aviso com mensagem saldo é inferior)
 
 
