@@ -17,9 +17,11 @@ Aplicação para controle de finanças pessoais.
 - **Cor Background:**`#FFFFFF`
 - **Cor texto padrão:** `#202528`
 - **Cor título e destaques:** `#6C5C82`
-- **Cor notificação de avsiso:** `#F49A37`
+- **Cor notificação de avsiso:** `#FFA938`
 - **Cor notificação de atraso:** `#B8141E`
-- **Cor notificação de sucesso:** `#A1B634`
+- **Cor notificação de sucesso:** `#AFEC3E`
+
+**Obs:** Apenas o sistema de cores deve ser usado para controle, exemplo a conta vai vencer em 5 dias e o saldo atual é negativo para o dia do vencimento, então deve ser o usado o aviso para o próximo pagamento. Mesmo que não exista dinheiro disponível para o dia do vencimento, ele ainda não venceu.
 
 ### 3.1 Publicado e versionado no GitHub
 
@@ -27,6 +29,10 @@ Para acomanhamento do projeto precisamos da publicação do projeto no seu GitHu
 
 - **Padrão de Versionamento:** [Versionamento Semântico MAJOR.MINOR.PATCH](https://semver.org/lang/pt-BR/)
 - **Padrão de Commits:** [Conventional Commits 1.0.0](https://www.conventionalcommits.org/pt-br/v1.0.0/)
+
+
+### Visão da tela principal
+
 
 
 
