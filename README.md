@@ -10,7 +10,7 @@ Aplicação para controle de finanças pessoais.
 - **Linguagem:** Java
 - **Banco de Dados:** PostgreSQL
 - **Padrão de cores**: [Item 2.1](README.md#21-padrão-de-cores-do-projeto)
-- **Publicado e versionado no GitHub**: [Item 3.1]()
+- **Publicado e versionado no GitHub**: [Item 3.1](README.md#31-publicado-e-versionado-no-github)
 
 ### 2.1 Padrão de cores do projeto
 
