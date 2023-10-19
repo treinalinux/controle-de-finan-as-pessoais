@@ -9,6 +9,13 @@ Aplicação para controle de finanças pessoais.
 - **Plataforma:** Linux
 - **Linguagem:** Java
 - **Banco de Dados:** PostgreSQL
+- **Lógica**:
+  - Entrada de valores aumentando o saldo total;
+  - Cadastro de contas no calendário, data de vencimento e se o vencimento é recorrente;
+  - Edição de entradas;
+  - Mover cadastro entre datas;
+  - Saldo total vai sendo decrementado conforme as datas de vencimento;
+  - Avisos com cores, ícones e mensagens personalizadas de atrasos ou previsão de não ter saldo suficiente;
 - **Padrão de cores**: [Item 2.1](README.md#21-padrão-de-cores-do-projeto)
 - **Publicado e versionado no GitHub**: [Item 3.1](README.md#31-publicado-e-versionado-no-github)
 
