@@ -39,7 +39,7 @@ Para acomanhamento do projeto precisamos da publicação do projeto no seu GitHu
 :--------- | :------: | -------:
 (cor atraso) | (cor sucesso) | (cor aviso)
 
-[Imagem de exemplo de como seria a tela inicial](blob/main/Imagens/tela_inicial.png)
+![Imagem de exemplo de como seria a tela inicial](https://github.com/treinalinux/controle-de-financas-pessoais/blob/main/Imagens/tela_inicial.png)
 
 
 
