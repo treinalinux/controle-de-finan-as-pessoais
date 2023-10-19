@@ -17,7 +17,7 @@ Aplicação para controle de finanças pessoais.
 - **Cor Background:**`#FFFFFF`
 - **Cor texto padrão:** `#202528`
 - **Cor título e destaques:** `#6C5C82`
-- **Cor notificação de avsiso:** `#FFA938`
+- **Cor notificação de aviso:** `#FFA938`
 - **Cor notificação de atraso:** `#B8141E`
 - **Cor notificação de sucesso:** `#AFEC3E`
 
@@ -37,7 +37,9 @@ Para acomanhamento do projeto precisamos da publicação do projeto no seu GitHu
 
 Últimos Pagamentos (VALOR DE SAÍDA) | Pagamentos de Hoje (VALOR TOTAL) | Próximos Pagamentos (VALOR PREVISTO)
 :--------- | :------: | -------:
-17/10/2023 R$ 120,00 Gás (cor sucesso) | 19/10/2023 R$ 350,00 Condomínio | 25/10/2023 R$ 250,00 Internet Tim Live (cor aviso)
-16/10/2023 R$ 800,00 Prestação Casa (cor atraso) | 19/10/2023 R$ 80,00 Sócio torcedor | 29/10/2023  R$ 650,00 Acordo Banco XPTO (cor aviso com mensagem saldo é inferior)
+(cor atraso) | (cor sucesso) | (cor aviso)
+
+[Imagem de exemplo de como seria a tela inicial](blob/main/Imagens/tela_inicial.png)
+
 
 
